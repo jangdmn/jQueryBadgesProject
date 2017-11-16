@@ -30,8 +30,5 @@ function addCourses(course) {
 			href: course.url,
 			text: 'See Course'
 		}).appendTo($course);
-
-		
-		})
 	}
 });
