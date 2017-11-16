@@ -1,4 +1,3 @@
-$.ajax({
 $(function () {
 	$.ajax({
     url: 'https://www.codeschool.com/users/4147696.jsonp',
